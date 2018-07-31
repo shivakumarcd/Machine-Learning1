@@ -10,7 +10,7 @@ gaussianKernel.m   :Gaussian/ kernel
 dataset3Params.m   :Finds best combination of C and sigma for which error is least/accuracy is best for all skewed data (taken from previous project)
 Dataset-2.xlsx     :output file
 data.txt           :Input training data (modified using above testScript.m)
-
+Assignment Details.docx: Assignment question
 
 
 Results-
